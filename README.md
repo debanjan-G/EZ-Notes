@@ -2,6 +2,11 @@
 
 EZNotes is a sleek and user-friendly note-taking application designed to help you manage and organize your notes effortlessly.
 
+## Demo Video:
+
+https://github.com/user-attachments/assets/2ccbc860-87ba-4214-8188-4ace9af9f6b7
+
+
 ## Key Features:
 - **Create and Edit Notes**: Easily add, modify, and save your notes with a simple and intuitive interface.
 - **Categorize Notes**: Organize your notes into different categories for better management and accessibility.
